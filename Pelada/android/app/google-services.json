@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66138108815",
+    "firebase_url": "https://pelada-5d08b.firebaseio.com",
+    "project_id": "pelada-5d08b",
+    "storage_bucket": "pelada-5d08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66138108815:android:f012d30e23b82f6226d1fa",
+        "android_client_info": {
+          "package_name": "com.pelada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66138108815-htncjgrqp8orkd8qd3a07hl45o3ugsub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMjz7uy-cG4cgqX9f7FBs4bsZ82a1zYNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66138108815-htncjgrqp8orkd8qd3a07hl45o3ugsub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
