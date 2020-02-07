@@ -165,7 +165,7 @@ const appNavigator = createStackNavigator(
 
   },
   {
-    initialRouteName: 'Home'
+    initialRouteName: 'Perfil'
   }
 )
 const AppContainer = createAppContainer(appNavigator);
